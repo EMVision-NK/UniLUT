@@ -35,13 +35,13 @@
 - Quantitative results on the Condensed Movie dataset
 
 <p align="center">
-  <img width="900" src="figs/quantitative_result1.png">
+  <img width="900" src="figs/quantitative_results1.png">
 </p>
 
 - Quantitative results on the MIT-Adobe FiveK dataset
 
 <p align="center">
-  <img width="900" src="figs/quantitative_result2.png">
+  <img width="900" src="figs/quantitative_results2.png">
 </p>
 </details>
 
